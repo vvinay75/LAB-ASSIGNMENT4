@@ -1,0 +1,147 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\vvina\AndroidStudioProjects\Login\app\src\main\AndroidManifest.xml:2:1-40:12
+	package
+		ADDED from C:\Users\vvina\AndroidStudioProjects\Login\app\src\main\AndroidManifest.xml:3:5-56
+		INJECTED from C:\Users\vvina\AndroidStudioProjects\Login\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\vvina\AndroidStudioProjects\Login\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\vvina\AndroidStudioProjects\Login\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\vvina\AndroidStudioProjects\Login\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\vvina\AndroidStudioProjects\Login\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from C:\Users\vvina\AndroidStudioProjects\Login\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\vvina\AndroidStudioProjects\Login\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\vvina\AndroidStudioProjects\Login\app\src\main\AndroidManifest.xml:4:5-66
+	android:name
+		ADDED from C:\Users\vvina\AndroidStudioProjects\Login\app\src\main\AndroidManifest.xml:4:22-64
+application
+ADDED from C:\Users\vvina\AndroidStudioProjects\Login\app\src\main\AndroidManifest.xml:6:5-38:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\vvina\.android\build-cache\1ac96ecb80aa2d8bb68beafd449e88aafcc52ba8\output\AndroidManifest.xml:9:5-20
+MERGED from [com.facebook.android:facebook-android-sdk:4.26.0] C:\Users\vvina\.android\build-cache\b0d0c74395f2cea0488561dacad6ec8b4ebd7ef0\output\AndroidManifest.xml:28:5-48:19
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\vvina\.android\build-cache\7dd0bf7a0de3914f95638b066a8a2c6b860cb184\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\vvina\.android\build-cache\de8a69d573d031ca360cd14630d8b804c6b52b26\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\vvina\.android\build-cache\fda15db00a13a41997772fc41e6f890c8bbd67fe\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\vvina\.android\build-cache\3bada5192378892f51c092d2d268ec916bd8ded5\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\vvina\.android\build-cache\475767da7911509698f1cfd8d09fa415e4ec7b3d\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\vvina\.android\build-cache\eae8072c203c52396190be33db5ca16222f600a0\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\vvina\.android\build-cache\723f7ae2825a799479218425c85274e60db8ba6f\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\vvina\.android\build-cache\6dc14713f741f373087e42010de9754463edb061\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:cardview-v7:25.3.1] C:\Users\vvina\.android\build-cache\7aacc7aa078be1a4b75d99773afeb6dd35cc6286\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:customtabs:25.3.1] C:\Users\vvina\.android\build-cache\f5110edcfbe61984ab33d7559aba5f967bd80be1\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\vvina\.android\build-cache\739502afc5e80617a4b20fc37c933b7aac765418\output\AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from C:\Users\vvina\AndroidStudioProjects\Login\app\src\main\AndroidManifest.xml:9:9-41
+	android:supportsRtl
+		ADDED from C:\Users\vvina\AndroidStudioProjects\Login\app\src\main\AndroidManifest.xml:11:9-35
+	android:roundIcon
+		ADDED from C:\Users\vvina\AndroidStudioProjects\Login\app\src\main\AndroidManifest.xml:10:9-54
+	android:allowBackup
+		ADDED from C:\Users\vvina\AndroidStudioProjects\Login\app\src\main\AndroidManifest.xml:7:9-35
+	android:icon
+		ADDED from C:\Users\vvina\AndroidStudioProjects\Login\app\src\main\AndroidManifest.xml:8:9-43
+	android:theme
+		ADDED from C:\Users\vvina\AndroidStudioProjects\Login\app\src\main\AndroidManifest.xml:12:9-40
+activity#com.example.admin.login.HomeActivity
+ADDED from C:\Users\vvina\AndroidStudioProjects\Login\app\src\main\AndroidManifest.xml:13:9-33:20
+	android:name
+		ADDED from C:\Users\vvina\AndroidStudioProjects\Login\app\src\main\AndroidManifest.xml:13:19-70
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\vvina\AndroidStudioProjects\Login\app\src\main\AndroidManifest.xml:14:13-19:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\vvina\AndroidStudioProjects\Login\app\src\main\AndroidManifest.xml:15:17-69
+	android:name
+		ADDED from C:\Users\vvina\AndroidStudioProjects\Login\app\src\main\AndroidManifest.xml:15:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\vvina\AndroidStudioProjects\Login\app\src\main\AndroidManifest.xml:18:17-77
+	android:name
+		ADDED from C:\Users\vvina\AndroidStudioProjects\Login\app\src\main\AndroidManifest.xml:18:27-74
+activity#com.facebook.FacebookActivity
+ADDED from C:\Users\vvina\AndroidStudioProjects\Login\app\src\main\AndroidManifest.xml:21:13-24:52
+	android:label
+		ADDED from C:\Users\vvina\AndroidStudioProjects\Login\app\src\main\AndroidManifest.xml:24:17-49
+	android:configChanges
+		ADDED from C:\Users\vvina\AndroidStudioProjects\Login\app\src\main\AndroidManifest.xml:22:17-122
+	android:name
+		ADDED from C:\Users\vvina\AndroidStudioProjects\Login\app\src\main\AndroidManifest.xml:21:23-67
+intent-filter#android.intent.action.VIEW+android.intent.category.BROWSABLE+android.intent.category.DEFAULT
+ADDED from C:\Users\vvina\AndroidStudioProjects\Login\app\src\main\AndroidManifest.xml:27:13-32:29
+action#android.intent.action.VIEW
+ADDED from C:\Users\vvina\AndroidStudioProjects\Login\app\src\main\AndroidManifest.xml:28:17-69
+	android:name
+		ADDED from C:\Users\vvina\AndroidStudioProjects\Login\app\src\main\AndroidManifest.xml:28:25-66
+category#android.intent.category.DEFAULT
+ADDED from C:\Users\vvina\AndroidStudioProjects\Login\app\src\main\AndroidManifest.xml:29:17-76
+	android:name
+		ADDED from C:\Users\vvina\AndroidStudioProjects\Login\app\src\main\AndroidManifest.xml:29:27-73
+category#android.intent.category.BROWSABLE
+ADDED from C:\Users\vvina\AndroidStudioProjects\Login\app\src\main\AndroidManifest.xml:30:17-78
+	android:name
+		ADDED from C:\Users\vvina\AndroidStudioProjects\Login\app\src\main\AndroidManifest.xml:30:27-75
+data
+ADDED from C:\Users\vvina\AndroidStudioProjects\Login\app\src\main\AndroidManifest.xml:31:17-75
+	android:scheme
+		ADDED from C:\Users\vvina\AndroidStudioProjects\Login\app\src\main\AndroidManifest.xml:31:23-72
+activity#com.example.admin.login.SignUPActivity
+ADDED from C:\Users\vvina\AndroidStudioProjects\Login\app\src\main\AndroidManifest.xml:35:9-84
+	android:name
+		ADDED from C:\Users\vvina\AndroidStudioProjects\Login\app\src\main\AndroidManifest.xml:35:19-72
+meta-data#com.facebook.sdk.ApplicationId
+ADDED from C:\Users\vvina\AndroidStudioProjects\Login\app\src\main\AndroidManifest.xml:36:13-37:58
+	android:value
+		ADDED from C:\Users\vvina\AndroidStudioProjects\Login\app\src\main\AndroidManifest.xml:37:17-56
+	android:name
+		ADDED from C:\Users\vvina\AndroidStudioProjects\Login\app\src\main\AndroidManifest.xml:36:24-69
+uses-sdk
+INJECTED from C:\Users\vvina\AndroidStudioProjects\Login\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\vvina\.android\build-cache\1ac96ecb80aa2d8bb68beafd449e88aafcc52ba8\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.android:facebook-android-sdk:4.26.0] C:\Users\vvina\.android\build-cache\b0d0c74395f2cea0488561dacad6ec8b4ebd7ef0\output\AndroidManifest.xml:24:5-26:41
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\vvina\.android\build-cache\7dd0bf7a0de3914f95638b066a8a2c6b860cb184\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\vvina\.android\build-cache\de8a69d573d031ca360cd14630d8b804c6b52b26\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\vvina\.android\build-cache\fda15db00a13a41997772fc41e6f890c8bbd67fe\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\vvina\.android\build-cache\3bada5192378892f51c092d2d268ec916bd8ded5\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\vvina\.android\build-cache\475767da7911509698f1cfd8d09fa415e4ec7b3d\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\vvina\.android\build-cache\eae8072c203c52396190be33db5ca16222f600a0\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\vvina\.android\build-cache\723f7ae2825a799479218425c85274e60db8ba6f\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\vvina\.android\build-cache\6dc14713f741f373087e42010de9754463edb061\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:cardview-v7:25.3.1] C:\Users\vvina\.android\build-cache\7aacc7aa078be1a4b75d99773afeb6dd35cc6286\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:customtabs:25.3.1] C:\Users\vvina\.android\build-cache\f5110edcfbe61984ab33d7559aba5f967bd80be1\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\vvina\.android\build-cache\739502afc5e80617a4b20fc37c933b7aac765418\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\vvina\.android\build-cache\7dd0bf7a0de3914f95638b066a8a2c6b860cb184\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from C:\Users\vvina\AndroidStudioProjects\Login\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\vvina\AndroidStudioProjects\Login\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\vvina\AndroidStudioProjects\Login\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\vvina\AndroidStudioProjects\Login\app\src\main\AndroidManifest.xml
+activity#com.facebook.CustomTabMainActivity
+ADDED from [com.facebook.android:facebook-android-sdk:4.26.0] C:\Users\vvina\.android\build-cache\b0d0c74395f2cea0488561dacad6ec8b4ebd7ef0\output\AndroidManifest.xml:33:9-71
+	android:name
+		ADDED from [com.facebook.android:facebook-android-sdk:4.26.0] C:\Users\vvina\.android\build-cache\b0d0c74395f2cea0488561dacad6ec8b4ebd7ef0\output\AndroidManifest.xml:33:19-68
+provider#com.facebook.internal.FacebookInitProvider
+ADDED from [com.facebook.android:facebook-android-sdk:4.26.0] C:\Users\vvina\.android\build-cache\b0d0c74395f2cea0488561dacad6ec8b4ebd7ef0\output\AndroidManifest.xml:44:9-47:40
+	android:authorities
+		ADDED from [com.facebook.android:facebook-android-sdk:4.26.0] C:\Users\vvina\.android\build-cache\b0d0c74395f2cea0488561dacad6ec8b4ebd7ef0\output\AndroidManifest.xml:46:13-72
+	android:exported
+		ADDED from [com.facebook.android:facebook-android-sdk:4.26.0] C:\Users\vvina\.android\build-cache\b0d0c74395f2cea0488561dacad6ec8b4ebd7ef0\output\AndroidManifest.xml:47:13-37
+	android:name
+		ADDED from [com.facebook.android:facebook-android-sdk:4.26.0] C:\Users\vvina\.android\build-cache\b0d0c74395f2cea0488561dacad6ec8b4ebd7ef0\output\AndroidManifest.xml:45:13-70
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\vvina\.android\build-cache\7dd0bf7a0de3914f95638b066a8a2c6b860cb184\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\vvina\.android\build-cache\de8a69d573d031ca360cd14630d8b804c6b52b26\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\vvina\.android\build-cache\fda15db00a13a41997772fc41e6f890c8bbd67fe\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\vvina\.android\build-cache\3bada5192378892f51c092d2d268ec916bd8ded5\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\vvina\.android\build-cache\475767da7911509698f1cfd8d09fa415e4ec7b3d\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\vvina\.android\build-cache\eae8072c203c52396190be33db5ca16222f600a0\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\vvina\.android\build-cache\723f7ae2825a799479218425c85274e60db8ba6f\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\vvina\.android\build-cache\6dc14713f741f373087e42010de9754463edb061\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:cardview-v7:25.3.1] C:\Users\vvina\.android\build-cache\7aacc7aa078be1a4b75d99773afeb6dd35cc6286\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:customtabs:25.3.1] C:\Users\vvina\.android\build-cache\f5110edcfbe61984ab33d7559aba5f967bd80be1\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\vvina\.android\build-cache\739502afc5e80617a4b20fc37c933b7aac765418\output\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\vvina\.android\build-cache\7dd0bf7a0de3914f95638b066a8a2c6b860cb184\output\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\vvina\.android\build-cache\7dd0bf7a0de3914f95638b066a8a2c6b860cb184\output\AndroidManifest.xml:26:9-47
