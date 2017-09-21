@@ -1,4 +1,4 @@
-#Thu Sep 21 01:09:41 CDT 2017
+#Thu Sep 21 01:51:55 CDT 2017
 base.0=C\:\\Users\\vvina\\AndroidStudioProjects\\Login\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_8f464c0a35107a4f5e45da3f9274134f0975fd2b
 renamed.1=classes.dex
 renamed.0=classes2.dex

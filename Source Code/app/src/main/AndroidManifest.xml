@@ -2,6 +2,12 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.admin.com.example.admin.login">
     <uses-permission android:name="android.permission.INTERNET"/>
+    <uses-permission
+        android:name="android.permission.WRITE_EXTERNAL_STORAGE"
+        android:maxSdkVersion="22" />
+    <uses-permission
+        android:name="android.permission.READ_EXTERNAL_STORAGE"
+        android:maxSdkVersion="22" /
 
     <application
         android:allowBackup="true"
@@ -31,6 +37,24 @@
                 <data android:scheme="@string/fb_login_protocol_scheme" />
             </intent-filter>
         </activity>
+        <activity
+            android:name=".StreetViewPanoramaBasicDemoActivity"
+            android:label="@string/street_view_panorama_basic_demo_label" />
+        <activity
+            android:name=".StreetViewPanoramaEventsDemoActivity"
+            android:label="@string/street_view_panorama_events_demo_label" />
+        <activity
+            android:name=".StreetViewPanoramaNavigationDemoActivity"
+            android:label="@string/street_view_panorama_navigation_demo_label" />
+        <activity
+            android:name=".StreetViewPanoramaOptionsDemoActivity"
+            android:label="@string/street_view_panorama_options_demo_label" />
+        <activity
+            android:name=".StreetViewPanoramaViewDemoActivity"
+            android:label="@string/street_view_panorama_view_demo_label" />
+        <activity
+            android:name=".StyledMapDemoActivity"
+            android:label="@string/styled_map_demo_label" />
 
         <activity android:name="com.example.admin.login.SignUPActivity"></activity>
             <meta-data android:name="com.facebook.sdk.ApplicationId"
